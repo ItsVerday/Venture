@@ -1,0 +1,7 @@
+name: Venture
+version: ${project.version}
+main: gg.valgo.venture.VenturePlugin
+api-version: 1.16
+load: STARTUP
+authors: [ ValgoMC ]
+description: A beautiful world generator for Spigot 1.16.5
